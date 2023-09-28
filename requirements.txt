@@ -1,0 +1,9 @@
+
+# The following are the dependencies used for the model training
+numpy
+scipy
+matplotlib
+pandas
+seaborn
+sklearn
+
