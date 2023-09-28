@@ -4,6 +4,5 @@ numpy
 scipy
 matplotlib
 pandas
-seaborn
 sklearn
 
